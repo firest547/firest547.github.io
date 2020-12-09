@@ -7,6 +7,15 @@
 		text-transform: uppercase;
 	}
 
+	h4 {
+		color: #8F540C;
+		text-align:center;
+		vertical-align: middle;
+		padding-top: 2%;
+		padding-bottom: 1%;
+		text-transform: uppercase;
+	}
+
 	.authors{
 		text-align: center;
 		color: #8F540C;
@@ -31,6 +40,11 @@
   		text-align: center;
   		text-decoration: none;
   		display: inline-block;
+	}
+
+	table {
+		column-count: 2;
+		column-gap: 5%;
 	}
 
 	a:hover, a:active {
@@ -79,7 +93,7 @@
 		}
 
 	.homeBio{
-		width: 80%;
+		width: 50%;
 		margin: auto;
 		line-height: 1.5;
 		font-size: 1.6em;
@@ -108,3 +122,17 @@
 		column-gap: 5%;
 	}	
 
+	.mapDescription{
+		width: 80%;
+		margin: auto;
+		line-height: 1.5;
+		font-size: 1.3em;
+		text-align: center;
+		color: #B57526;
+	}	
+
+	.sectionMenu{
+		width: 80%;
+		column-count: 2;
+		column-gap: 5%;
+	}
