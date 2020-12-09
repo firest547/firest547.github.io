@@ -137,3 +137,9 @@
 		column-count: 2;
 		column-gap: 5%;
 	}
+
+	.sectionMenuData{
+		width: 80%;
+		column-count: 1;
+		column-gap: 5%;
+	}
