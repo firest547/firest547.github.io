@@ -78,7 +78,7 @@
 		}
 
 	.homeBio{
-		width: 80%;
+		width: 50%;
 		margin: auto;
 		line-height: 1.5;
 		font-size: 1.6em;
@@ -93,5 +93,6 @@
 		font-size: 1em;
 		text-align: center;
 		color: #B57526;
+		padding-bottom: 2%;
 	}
 
