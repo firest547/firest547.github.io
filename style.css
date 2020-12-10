@@ -19,7 +19,6 @@
 	.authors{
 		text-align: center;
 		color: #8F540C;
-		font-family:sans-serif;
 		font-size: small;
 		padding-bottom: 5px;
 	}
@@ -69,7 +68,7 @@
 		margin-right:7.5%;
 		margin-left:7.5% ;
 		margin-bottom:40px; 
-		font-family: Futura;
+		font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 		background: #FFD6A3;
 	}
 
