@@ -100,6 +100,15 @@
 		color: #B57526;
 	}
 
+	.dataBio{
+		width: 80%;
+		margin: auto;
+		line-height: 1.5;
+		font-size: 1.2em;
+		text-align: center;
+		color: #B57526;
+	}
+
 	.disclaimer{
 		width: 50%;
 		margin: auto;
